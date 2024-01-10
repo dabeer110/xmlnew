@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<Student xmlns:msg="www.msg.com">
+    <msg:name>Ali</msg:name>
+    <msg:course>ACCP</msg:course>
+    <msg:fees>9000</msg:fees>
+</Student>
+<Student xmlns:msg="www.msg.com">
+    <msg:name>Bhutto</msg:name>
+    <msg:course>ACCP</msg:course>
+    <msg:fees>9000</msg:fees>
+</Student>
+<Student xmlns:malir="www.malir.com">
+    <malir:name>faiq</malir:name>
+    <malir:course>ACCP</malir:course>
+    <malir:fees>9000</malir:fees>
+</Student>
+<Student xmlns:sfc="www.sfc.com">
+    <sfc:name>Hammal</sfc:name>
+    <sfc:course>ACCP</sfc:course>
+    <sfc:fees>9000</sfc:fees>
+</Student>
+</students>
